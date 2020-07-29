@@ -2,8 +2,9 @@
   "extends": "../tsconfig.base",
   "compilerOptions": {
     "removeComments": true,
+    "outFile": "../js/app.js"
   },
-  "include": [
-    "./**/*.ts" // glob to match everything within the string
+  "files": [
+    "./app.ts"
   ]
 }
