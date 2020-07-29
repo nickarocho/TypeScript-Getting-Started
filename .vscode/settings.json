@@ -9,7 +9,6 @@
         "**/.svn": true,
         "**/.hg": true,
         "**/.DS_Store": true,
-        "**/.gitignore": true,
         "npm-debug.log": true
     },
   
