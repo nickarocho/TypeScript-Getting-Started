@@ -13,9 +13,9 @@
         "npm-debug.log": true
     },
   
-    "editor.fontFamily": "Roboto Mono",
-    "editor.fontSize": 16,
-    "editor.cursorBlinking": "solid",
+    // "editor.fontFamily": "Roboto Mono",
+    // "editor.fontSize": 16,
+    // "editor.cursorBlinking": "solid",
     "editor.showUnused": false,
   
     "editor.quickSuggestions": {
@@ -27,19 +27,19 @@
     "editor.wordBasedSuggestions": false,
     "editor.selectionHighlight": false,
     "editor.suggestOnTriggerCharacters": false,
-    "editor.folding": false,
+    // "editor.folding": false,
     "editor.hover.enabled": true,
-    "editor.tabCompletion": "onlySnippets",
+    // "editor.tabCompletion": "onlySnippets",
     "editor.lightbulb.enabled": false,
 
-    "breadcrumbs.enabled": false,
+    // "breadcrumbs.enabled": false,
   
-    "typescript.suggestionActions.enabled": false,
+    // "typescript.suggestionActions.enabled": false,
     "typescript.suggest.completeFunctionCalls": true,
   
-    "problems.decorations.enabled": false,
+    // "problems.decorations.enabled": false,
   
-    "terminal.integrated.fontSize": 16,
+    // "terminal.integrated.fontSize": 16,
 
     "workbench.colorCustomizations": {
       "terminal.background":"#000000",
@@ -49,8 +49,8 @@
       "terminal.ansiBrightYellow": "#ffffff"
     },
 
-    "workbench.statusBar.visible": false,
+    // "workbench.statusBar.visible": false,
   
-    "window.zoomLevel": 0
+    // "window.zoomLevel": 2
      
   }
